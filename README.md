@@ -81,8 +81,8 @@ Here are some ideas to get you started:
 
 如果您正在尋找一位能將複雜技術轉化為直觀解決方案的工程師，歡迎聯繫：
 
-- 📧 Email: chung03216@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/%E9%BA%97%E8%8F%AF-%E9%8D%BE-050125369/
+- 📧 Email: [chung03216@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/%E9%BA%97%E8%8F%AF-%E9%8D%BE-050125369/]
 
 <p align="center">
   <i>"Technology is the tool, but education is the bridge."</i>
