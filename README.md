@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 我的核心競爭力在於 **「翻譯」** —— 我擅長建構複雜的系統，更擅長設計讓人類能直觀理解與操作的介面。
 
-- 🔭 **目前專注於**：機器人 SLAM 演算法 (ORB-SLAM)、視覺語言模型 (VLM) 與機械手臂的 OPC UA 串接。
+- 🔭 **目前專注於**：視覺語言模型 (VLM) 與機械手臂的 OPC UA 串接。
 - 🌱 **我的特質**：
     - **硬科技 (Hard Tech)**：具備處理 ROS、電腦視覺與製造系統的工程實力。
     - **軟實力 (Soft Skills)**：運用教育學背景（差異化教學、鷹架理論）來優化系統設計與使用者體驗 (UX)。
@@ -66,14 +66,14 @@ Here are some ideas to get you started:
 | **電腦視覺** (Computer Vision) | **觀察評量** (Assessment) | 讓機器人不僅能「看見」環境，還能像老師觀察學生一樣理解人類意圖。 |
 | **除錯與優化** (Debugging) | **差異化教學** (Differentiation) | 針對不同使用情境（新手/專家）提供動態調整的系統回饋與操作介面。 |
 
----
-
+<!--
 ### 📈 GitHub 數據 (GitHub Stats)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="150" alt="languages graph" />
 </div>
+--!>
 
 ---
 
@@ -81,9 +81,8 @@ Here are some ideas to get you started:
 
 如果您正在尋找一位能將複雜技術轉化為直觀解決方案的工程師，歡迎聯繫：
 
-- 📧 Email: [你的 Email]
-- 💼 LinkedIn: [你的 LinkedIn 連結]
-- ✍️ Blog: [如果你有技術部落格]
+- 📧 Email: chung03216@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/%E9%BA%97%E8%8F%AF-%E9%8D%BE-050125369/
 
 <p align="center">
   <i>"Technology is the tool, but education is the bridge."</i>
