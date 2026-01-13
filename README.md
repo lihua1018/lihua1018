@@ -79,11 +79,19 @@ Here are some ideas to get you started:
 
 ### 📫 聯絡我 (Connect with Me)
 
-如果您正在尋找一位能將複雜技術轉化為直觀解決方案的工程師，歡迎聯繫：
+<div align="center">
+  <p>如果您正在尋找一位能將複雜技術轉化為直觀解決方案的工程師，歡迎聯繫：</p>
 
-- 📧 Email: [chung03216@gmail.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/%E9%BA%97%E8%8F%AF-%E9%8D%BE-050125369/]
+  <a href="mailto:chung03216@gmail.com">
+    <img src="https://img.shields.io/badge/Email-chung03216%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
-<p align="center">
+  <a href="https://www.linkedin.com/in/%E9%BA%97%E8%8F%AF-%E9%8D%BE-050125369/">
+    <img src="https://img.shields.io/badge/LinkedIn-鍾麗華-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <br />
+  <br />
+  
   <i>"Technology is the tool, but education is the bridge."</i>
-</p>
+</div>
