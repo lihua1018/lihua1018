@@ -10,7 +10,7 @@
 
 <br>
 
-### 👋 關於我 (About Me)
+### 👋 About Me
 
 我擁有 **智慧機器人** 與 **小學教育** 的獨特雙學位背景。我的核心競爭力在於 **「翻譯」** —— 我擅長建構複雜的系統，更擅長設計讓人類能直觀理解與操作的介面。
 
@@ -18,11 +18,11 @@
 - 🛠️ **硬科技 (Hard Tech)**：ROS、電腦視覺 (OpenCV)、製造系統整合。
 - 🧩 **軟實力 (Soft Skills)**：運用教育學（鷹架理論、差異化教學）優化系統 UX。
 
-> 💡 *我相信：最好的程式碼不僅要能跑，還要能被理解；最好的系統不僅要強大，還要能與人協作。*
+> 💡 *“Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead”*
 
 ---
 
-### 🧩 核心哲學 (The Engineer-Educator Hybrid)
+### 🧩 The Engineer-Educator Hybrid
 
 我的開發流程融合了教學設計原理：
 
@@ -34,7 +34,7 @@
 
 ---
 
-### 🛠️ 技術棧 (Tech Stack)
+### 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -52,16 +52,7 @@
 
 ---
 
-### 📈 GitHub 數據 (Stats)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lihua1018&show_icons=true&theme=transparent&count_private=true&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihua1018&layout=compact&theme=transparent&hide_border=true" height="150" alt="languages graph" />
-</div>
-
----
-
-### 📫 聯絡我 (Connect)
+### 📫 Connect
 
 <div align="center">
   <p>如果您正在尋找一位能將複雜技術轉化為直觀解決方案的工程師，歡迎聯繫：</p>
