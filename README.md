@@ -49,14 +49,3 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
-
----
-
-### 📫 Connect
-
-<div align="center">
-  <p>如果您正在尋找一位能將複雜技術轉化為直觀解決方案的工程師，歡迎聯繫：</p>
-
-  <a href="mailto:chung03216@gmail.com">
-    <img src="https://img.shields.io/badge/Email-chung03216%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
